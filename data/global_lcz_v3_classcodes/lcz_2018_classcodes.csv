@@ -1,0 +1,18 @@
+code;code_alt;description;hex_color
+1;1;Compact highrise;#910613
+2;2;Compact midrise;#D9081C
+3;3;Compact lowrise;#FF0A22
+4;4;Open highrise;#C54F1E
+5;5;Open midrise;#FF6628
+6;6;Open lowrise;#FF985E
+7;7;Lightweight lowrise;#FDED3F
+8;8;Large lowrise;#BBBBBB
+9;9;Sparsely built;#FFCBAB
+10;10;Heavy industry;#565656
+11;(A);Dense trees;#006A18
+12;(B);Scattered trees;#00A926
+13;(C);Bush, scrub;#628432
+14;(D);Low plants;#B5DA7F
+15;(E);Bare rock or paved;#000000
+16;(F);Bare soil or sand;#FCF7B1
+17;(G);Water;#656BFA
